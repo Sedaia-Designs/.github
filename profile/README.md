@@ -20,12 +20,7 @@ Please be sure to read the Repository's associated CONTRIBUTING.md for more info
 
 ## Community
 
-[Website](https://sedaia-designs.org)
-[Discord Server](https://discord.com/invite/7QRdTJbCEz)
-[Fluxer Server](https://fluxer.gg/PABq6tPB)
-[YouTube Channel](https://www.youtube.com/@SakuraSedaia)
-Docs - Coming Soon
-Blog - Coming Soon
+[Website](https://sedaia-designs.org) | [Discord Server](https://discord.com/invite/7QRdTJbCEz) | [Fluxer Server](https://fluxer.gg/PABq6tPB) | [YouTube Channel](https://www.youtube.com/@SakuraSedaia) } Docs - Coming Soon | Blog - Coming Soon
 
 <!--
 
